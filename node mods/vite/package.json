@@ -33,7 +33,7 @@
       "types": "./types/*"
     },
     "./types/internal/*": null,
-    "./package.json": "./package.json"
+    "./package.json": "./auto"
   },
   "typesVersions": {
     "*": {
