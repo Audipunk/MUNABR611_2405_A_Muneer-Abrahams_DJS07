@@ -69,7 +69,9 @@
     "url": "https://github.com/vitejs/vite/issues"
   },
   "homepage": "https://vite.dev",
-  "funding": "https://github.com/vitejs/vite?sponsor=1",
+  "funding": {
+    "url": "https://github.com/vitejs/vite?sponsor=1"
+  },
   "//": "READ CONTRIBUTING.md to understand what to put under deps vs. devDeps!",
   "dependencies": {
     "esbuild": "^0.25.0",
